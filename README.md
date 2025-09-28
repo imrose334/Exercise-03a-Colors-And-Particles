@@ -3,6 +3,7 @@
 Exercise for MSCH-C220
 
 The first steps in adding "juicy" features to a simple brick-breaker game.
+Sorry for lateness , I was having some trouble with getting the unity files to load and misjudged the amount of time it would take to complete. 
 
 ## To play
 
@@ -27,4 +28,4 @@ Tweening, Screen Shake, Adding a face, Comet trail, Music and Sound, Shaders, et
 
 ## Created by 
 
-Nathan Mishler
+Izzy Rose (imrose334)
